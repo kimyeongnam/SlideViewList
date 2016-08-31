@@ -1,0 +1,7 @@
+CHANGED,E:\AndroidWorkSpace\Import\SlideView\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ryg\slideview\SlideAdapter$1$override.class
+CHANGED,E:\AndroidWorkSpace\Import\SlideView\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ryg\slideview\MainActivity$1$override.class
+CHANGED,E:\AndroidWorkSpace\Import\SlideView\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ryg\slideview\MainActivity$override.class
+CHANGED,E:\AndroidWorkSpace\Import\SlideView\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ryg\slideview\SliderView$override.class
+CHANGED,E:\AndroidWorkSpace\Import\SlideView\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,E:\AndroidWorkSpace\Import\SlideView\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ryg\slideview\SlideAdapter$override.class
+CHANGED,E:\AndroidWorkSpace\Import\SlideView\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\ryg\slideview\SilderListView$override.class

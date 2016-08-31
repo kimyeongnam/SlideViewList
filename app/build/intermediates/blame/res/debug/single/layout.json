@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidWorkSpace\\Import\\SlideView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\AndroidWorkSpace\\Import\\SlideView\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\Import\\SlideView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidWorkSpace\\Import\\SlideView\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\Import\\SlideView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slide_view_merge.xml",
+        "source": "E:\\AndroidWorkSpace\\Import\\SlideView\\app\\src\\main\\res\\layout\\slide_view_merge.xml"
+    }
+]

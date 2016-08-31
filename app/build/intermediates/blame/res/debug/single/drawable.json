@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidWorkSpace\\Import\\SlideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg.xml",
+        "source": "E:\\AndroidWorkSpace\\Import\\SlideView\\app\\src\\main\\res\\drawable\\list_item_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\Import\\SlideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_point_bg.png",
+        "source": "E:\\AndroidWorkSpace\\Import\\SlideView\\app\\src\\main\\res\\drawable\\item_point_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidWorkSpace\\Import\\SlideView\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\holder_bg.xml",
+        "source": "E:\\AndroidWorkSpace\\Import\\SlideView\\app\\src\\main\\res\\drawable\\holder_bg.xml"
+    }
+]
